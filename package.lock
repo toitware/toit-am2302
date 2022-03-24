@@ -1,1 +1,7 @@
-# Toit Lock File.
+prefixes:
+  dht22: toit-dhtxx
+packages:
+  toit-dhtxx:
+    url: github.com/toitware/toit-dhtxx
+    version: 1.0.0
+    hash: 8fa81c714414813fad3bedcd33741f98fb5833cd
