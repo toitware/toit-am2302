@@ -3,5 +3,5 @@ prefixes:
 packages:
   toit-dhtxx:
     url: github.com/toitware/toit-dhtxx
-    version: 1.0.0
-    hash: 8fa81c714414813fad3bedcd33741f98fb5833cd
+    version: 1.1.0
+    hash: d3189b2bf54a0464677f9a6bf28e581300f30983
